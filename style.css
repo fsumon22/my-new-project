@@ -1,0 +1,64 @@
+body{
+    font-family: font-family: 'Lobster', cursive;;
+}
+.bannar{
+    background-image:url("images/bk.png") ;
+   
+}
+.bannar1{
+background-image: url(" images/bk1.png");
+}
+h1{ color: aliceblue;
+    font-size: 50px;
+}
+.For-name{
+    color: rgb(255, 21, 255);
+}
+p{ color: aliceblue;
+    font-size: 25px;
+   
+    
+
+}
+h2{ color: aliceblue;
+    font-size: 30px;
+
+}
+.half-width{width: 40%;
+  float: left;
+margin-left: 5%;
+padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+
+b{
+    color: rgb(255, 255, 255);
+   background-color: rgb(208, 41, 250);
+   font-size: larger;
+    
+}
+.link-buttom{ text-decoration: none;
+    
+    
+}
+section{ 
+    height: 900px;
+    width: 100%;
+
+}
+.dev{
+    color: rgb(0, 0, 0);
+    background-color: rgb(149, 255, 246);
+}
+
+
+.single-person{ 
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 50%;
+  
+}
+p1{color: black;}
+
